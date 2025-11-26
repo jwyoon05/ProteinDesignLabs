@@ -660,29 +660,5 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.proteindesign.uni-bayreuth.de/en/index.html)
 </details>
 
-## :fr: France
-
-### Ecole Polytechnique
-
-<details>
-<summary>Thomas Simonson</summary>
-
-- Lab website: [Link](https://bioc.polytechnique.fr/biocomputing/)
-- Related paper:
-  - [Proteus](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.23418)
-</details>
-
-
-### INRAE MIAT
-<details>
-<summary>Thomas Schiex</summary>
-
-- Lab website: [Link](https://miat.inrae.fr/schiex/research.shtml)
-</details>
-
-### Toulouse Biotechnology Institute
-<details>
-<summary>Sophie Barbe</summary>
-</details>
 
 
