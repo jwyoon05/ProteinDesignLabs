@@ -10,76 +10,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 > 📝 Note: The list was based on @[Zuricho](https://github.com/Zuricho)'s post on [Zhihu](https://zhuanlan.zhihu.com/p/710644612) in Chinese. The current version has been expanded and formatted with the assistance of @[Leo-T-Zang](https://github.com/Leo-T-Zang).
 
-
-
-## Table of Contents
-
-- [#North America](#north-america)
-  - [:us: United States](#us-united-states)
-    - [MIT](#mit)
-    - [Harvard University](#harvard-university)
-    - [Stanford University](#stanford-university)
-    - [University of Washington](#university-of-washington)
-    - [UCSF](#ucsf)
-    - [UC Berkeley](#uc-berkeley)
-    - [UCLA](#ucla)
-    - [Caltech](#caltech)
-    - [University of Chicago](#university-of-chicago)
-    - [UIUC](#uiuc)
-    - [Scripps Research Institute](#scripps-research-institute)
-    - [Princeton University](#princeton-university)
-    - [Duke University](#duke-university)
-    - [John Hopkins University](#john-hopkins-university)
-    - [Carnegie Mellon University](#carnegie-mellon-university)
-    - [Northwestern University](#northwestern-university)
-    - [UNC Chapel Hill](#unc-chapel-hill)
-    - [St. Jude Children’s Research Hospital](#st-jude-childrens-research-hospital)
-    - [Dartmouth College](#dartmouth-college)
-    - [Columbia University](#columbia-university)
-    - [New York University](#new-york-university)
-    - [Northeastern University](#northeastern-university)
-    - [Texas A\&M University](#texas-am-university)
-    - [UCSB](#ucsb)
-    - [UCSC](#ucsc)
-    - [UT Southwestern](#ut-southwestern)
-    - [University of Wisconsin-Madison](#university-of-wisconsin-madison)
-    - [University of Alabama at Birmingham](#university-of-alabama-at-birmingham)
-    - [University of Florida](#university-of-florida)
-    - [Georgia Institute of Technology](#georgia-institute-of-technology)
-    - [University of Delaware](#university-of-delaware)
-    - [Wake Forest University](#wake-forest-university)
-    - [Vanderbilt University](#vanderbilt-university)
-    - [Yale University](#yale-university)
-    - [University of Oregon](#university-of-oregon)
-  - [:canada: Canada](#canada-canada)
-    - [Mila - Quebec AI Institute](#mila---quebec-ai-institute)
-    - [University of Toronto](#university-of-toronto)
-- [#EMEA](#emea)
-  - [:uk: United Kingdom](#uk-united-kingdom)
-    - [University of Cambridge](#university-of-cambridge)
-    - [University of Oxford](#university-of-oxford)
-    - [Imperial College London](#imperial-college-london)
-    - [UCL](#ucl)
-    - [University of Edinburgh](#university-of-edinburgh)
-    - [University of Bristol](#university-of-bristol)
-    - [Cardiff University](#cardiff-university)
-    - [University of Leeds](#university-of-leeds)
-  - [:ireland: Ireland](#ireland-ireland)
-    - [University College Cork](#university-college-cork)
-  - [:switzerland: Switzerland](#switzerland-switzerland)
-    - [ETH Zurich](#eth-zurich)
-    - [EPFL](#epfl)
-  - [:de: Germany](#de-germany)
-    - [TUM](#tum)
-    - [FU Berlin](#fu-berlin)
-    - [Leipzig University](#leipzig-university)
-    - [University of Bayreuth](#university-of-bayreuth)
-  - [:fr: France](#fr-france)
-    - [Ecole Polytechnique](#ecole-polytechnique)
-    - [INRAE MIAT](#inrae-miat)
-    - [Toulouse Biotechnology Institute](#toulouse-biotechnology-institute)
-
-
 ## #North America
 
 ## :us: United States
@@ -457,22 +387,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [EnzyGen](https://arxiv.org/abs/2405.08205)
   </details>
 
-### Northwestern University
-
-<details>
-<summary>Gabriel J. Rocklin</summary>
-
-- Lab website: [Link](http://www.rocklinlab.org/)
-</details>
-
-<details>
-<summary>Neha P. Kamat</summary>
-
-- Lab website: [Link](https://www.nehakamat.com/)
-- Related Papers:
-  - [Protein-lipid interaction engineerning](https://www.nature.com/articles/s41467-024-49678-z)
-</details>
-
 ### UNC Chapel Hill
 
 <details>
@@ -500,23 +414,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.kratochvillab.com/)
 </details>
 
-
-### St. Jude Children’s Research Hospital
-
-<details>
-<summary>Elizabeth H. Kellogg</summary>
-
-- Lab website: [link](kellogglab.org)
-</details>
-
-
-### Dartmouth College
-
-<details>
-<summary>Gevorg Grigoryan (Left for Company)</summary>
-
-- Personal website: [Gevorg Grigoryan](https://faculty-directory.dartmouth.edu/gevorg-grigoryan)
-</details>
 
 ### Columbia University
 
@@ -561,21 +458,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
 </details>
 
-### Northeastern University
-
-<details>
-<summary>Wengong Jin</summary>
-
-- Personal website: [Wengong Jin](https://people.csail.mit.edu/wengong/)
-</details>
-
-### Texas A&M University
-
-<details>
-<summary>Shuiwang Ji</summary>
-
-- Personal website: [Shuiwang Ji](https://people.tamu.edu/~sji/)
-</details>
 
 ### UCSB
 
@@ -610,45 +492,12 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.biostat.wisc.edu/~gitter/)
 </details>
 
-### University of Alabama at Birmingham
-
-<details>
-<summary>Hy Truong Son</summary>
-
-- Lab website: [Link](https://people.cs.uchicago.edu/~hytruongson/)
-</details>
-
-### University of Florida
-
-<details>
-<summary>Wenjun Xie</summary>
-
-- Lab website: [Link](https://pharmacy.ufl.edu/profile/xie-wenjun/)
-</details>
-
 ### Georgia Institute of Technology
 
 <details>
 <summary>Yunan Luo</summary>
 
 - Lab website: [Link](https://faculty.cc.gatech.edu/~yunan/)
-</details>
-
-
-### University of Delaware
-
-<details>
-<summary>Jason Gleghorn</summary>
-
-- Lab website: [Link](https://www.gleghornlab.com/)
-</details>
-
-### Wake Forest University
-
-<details>
-<summary>Katherine I. Albanese</summary>
-
-- Lab website: [Link](https://www.albaneselab.com/)
 </details>
 
 
@@ -716,40 +565,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://davidvandijk.squarespace.com/)
 </details>
 
-### University of Oregon
-
-<details>
-<summary>Parisa Hosseinzadeh</summary>
-
-- Lab website: [Link](https://www.parisahlab.org/)
-</details>
-
-
-## :canada: Canada
-
-### Mila - Quebec AI Institute
-
-<details>
-<summary>Yoshua Bengio</summary>
-
-  - Lab website: [Link](https://yoshuabengio.org/fr/profil/)
-</details>
-
-<details>
-<summary>Jian Tang</summary>
-
-  - Lab website: [Link](https://jian-tang.com/)
-
-</details>
-
-### University of Toronto
-
-<details>
-<summary>Philip M. Kim</summary>
-
-- Lab website: [Link](https://www.kimlab.org/)
-</details>
-
 
 ## #EMEA
 
@@ -781,114 +596,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Yarin Gal</summary>
 
 - Lab website: [Yarin Gal - Home Page | Oxford Machine Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/)
-</details>
-
-### Imperial College London
-
-<details>
-<summary>Guang Yang</summary>
-
-- Lab website: [link](https://profiles.imperial.ac.uk/g.yang)
-</details>
-
-
-### UCL
-
-<details>
-<summary>David T. Jones</summary>
-
-- Lab website: [Link](http://www0.cs.ucl.ac.uk/staff/d.jones/)
-</details>
-
-
-### University of Edinburgh
-
-<details>
-<summary>Chris Wells Wood</summary>
-
-- Lab website: [Link](https://www.wellswoodresearchgroup.com/)
-</details>
-
-
-<details>
-<summary>Lynne Regan</summary>
-
-- Lab website: [Link](https://regan.bio.ed.ac.uk/)
-</details>
-
-### University of Bristol
-
-<details>
-<summary>Dek Woolfson</summary>
-
-- Lab website: [Link](https://woolfsonlab.wordpress.com/)
-</details>
-
-<details>
-<summary>Ross Anderson</summary>
-
-- Lab website: [Link](https://theandersonlab.com/)
-</details>
-
-### Cardiff University
-
-<details>
-<summary>Fabio Parmeggiani</summary>
-
-- Lab website: [Link](https://profiles.cardiff.ac.uk/staff/parmeggianif)
-- Related papers:
-  - [Repeat protein design](https://www.nature.com/articles/nature16162)
-</details>
-
-
-### University of Leeds
-
-<details>
-<summary>Darren Tomlinson</summary>
-
-- Lab website: [Link](https://astbury.leeds.ac.uk/people/dr-darren-tomlinson/)
-</details>
-
-<details>
-<summary>Takashi Ochi</summary>
-
-- Lab website: [Link](https://tochi.myportfolio.com/)
-</details>
-
-<details>
-<summary>Neil Ranson</summary>
-
-- Lab website: [Link](https://naranson.myportfolio.com/)
-</details>
-
-<details>
-<summary>Richard Bayliss</summary>
-
-- Lab website: [Link](https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/23/prof-richard-bayliss)
-</details>
-
-<details>
-<summary>David Brockwell</summary>
-
-- Lab website: [Link](https://astbury.leeds.ac.uk/people/dr-david-brockwell/)
-</details>
-
-
-<details>
-<summary>Sheena Radford</summary>
-
-- Lab website: [Link](https://astbury.leeds.ac.uk/people/professor-sheena-radford/)
-</details>
-
-## :ireland: Ireland
-
-### University College Cork
-
-
-<details>
-<summary>Sabin Tabirca</summary>
-
-- Lab website: [Link](https://crr.ucc.ie/)
 </details>
 
 ## :switzerland: Switzerland
