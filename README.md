@@ -142,18 +142,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://people.eecs.berkeley.edu/~pabbeel/)
 </details>
 
-### UCLA
-
-<details>
-<summary>Quanquan Gu</summary>
-
-- Lab website: [Link](https://web.cs.ucla.edu/~qgu/)
-- Personal website: [Quanquan Gu](https://web.cs.ucla.edu/~qgu/)
-- Related papers:
-  - [LM-design](https://proceedings.mlr.press/v202/zheng23a.html)
-  - [DPLM](https://arxiv.org/abs/2402.18567)
-  </details>
-
 ### Caltech
 
 <details>
@@ -312,41 +300,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://cims.nyu.edu/~andrewgw/)
   - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
 </details>
-
-
-### UCSB
-
-<details>
-<summary>Yang Yang</summary>
-
-- Lab website: [Yang Lab at UCSB](https://yang.chem.ucsb.edu/yang)
-</details>
-
-### UCSC
-
-<details>
-<summary>Andy Hsien-Wei Yeh</summary>
-
-- Lab website: [Link](https://neolux.sites.ucsc.edu/people/)
-- Related paper: [bioRxiv 2023](https://www.biorxiv.org/content/10.1101/2023.11.01.565201v1)
-</details>
-
-### UT Southwestern
-
-<details>
-<summary>Qian Cong</summary>
-
-- Lab website: [Link](https://breakthroughs.utsouthwestern.edu/women/stories/cong-qian.html)
-</details>
-
-### Georgia Institute of Technology
-
-<details>
-<summary>Yunan Luo</summary>
-
-- Lab website: [Link](https://faculty.cc.gatech.edu/~yunan/)
-</details>
-
 
 ### Vanderbilt University
 
