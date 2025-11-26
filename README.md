@@ -280,46 +280,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-### Vanderbilt University
-
-<details>
-<summary>Zhongyue Yang</summary>
-
-- Lab website: [Link](https://lab.vanderbilt.edu/zyang-lab/)
-</details>
-
-<details>
-<summary>Jens Meiler</summary>
-
-- Lab website: [Link](https://meilerlab.org/)
-</details>
-
-<details>
-<summary>Stephanie Wankowicz</summary>
-
-- Lab website: [Link](https://wankowiczlab.com/)
-</details>
-
-<details>
-<summary>Hassane Mchaourab</summary>
-
-- Lab website: [Link](https://lab.vanderbilt.edu/mchaourab-lab/person/hassane-s-mchaourab-ph-d/)
-</details>
-
-<details>
-<summary>Ben Brown</summary>
-
-- Lab website: [Link](https://www.bpbrownlab.org/)
-</details>
-
-<details>
-<summary>AI for Protein Dynamics Center</summary>
-
-- Lab website: [Link](https://www.ai-proteindynamics.org/)
-</details>
-
-
-
 ## #Europe
 
 ### University of Oxford
