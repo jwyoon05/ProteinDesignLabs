@@ -279,27 +279,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [AlQuraishi Lab at Columbia University](https://www.aqlab.io/)
 </details>
 
-<details>
-<summary>Scott Banta</summary>
-
-- Lab website: [Banta Lab](https://bantalab.cheme.columbia.edu/)
-</details>
-
-### New York University
-
-<details>
-<summary>Jin Kim Montclare</summary>
-
-- Lab website: [Montclare Lab](http://montclare.poly.edu/)
-</details>
-
-
-<details>
-<summary>Andrew Gordon Wilson</summary>
-
-- Lab website: [Link](https://cims.nyu.edu/~andrewgw/)
-  - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
-</details>
 
 ### Vanderbilt University
 
@@ -339,31 +318,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.ai-proteindynamics.org/)
 </details>
 
-### Yale University
-
-<details>
-<summary>Mark Gerstein</summary>
-
-- Lab website: [Link](https://www.gersteinlab.org/)
-</details>
-
-<details>
-<summary>Rex Ying</summary>
-
-- Lab website: [Link](https://www.cs.yale.edu/homes/ying-rex/)
-</details>
-
-<details>
-<summary>Smita Krishnaswamy</summary>
-
-- Lab website: [Link](https://krishnaswamylab.org/)
-</details>
-
-<details>
-<summary>David van Dijk</summary>
-
-- Lab website: [Link](https://davidvandijk.squarespace.com/)
-</details>
 
 
 ## #Europe
