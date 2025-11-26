@@ -97,25 +97,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://drorlab.stanford.edu/)
 </details>
 
-
-### University of Washington
-
-
-<details>
-<summary>Gaurav Bhardwaj</summary>
-
-- Lab website: [Bhardwaj Lab](https://peptidedesign.org/)
-- Research focus: Peptide design for therapeutics
-</details>
-
-### UCSF
-
-<details>
-<summary>William DeGrado</summary>
-
-- Lab website: [Link](https://pharm.ucsf.edu/degrado)
-</details>
-
 ### UC Berkeley
 
 <details>
@@ -181,34 +162,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [SH3 design](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00204-7#%20)
 </details>
 
-### UIUC
-
-<details>
-<summary>Huimin Zhao</summary>
-
-- Lab website: [Zhao Group @ UIUC](https://zhaogroup.chbe.illinois.edu/index.html)
-</details>
-
-<details>
-<summary>Ge Liu</summary>
-
-- Personal website: [Ge Liu](https://www.mit.edu/~geliu/)
-</details>
-
-### Scripps Research Institute
-
-<details>
-<summary>William E. Balch</summary>
-
-- Lab website: [Balch Lab](https://www.webalchlab.com/)
-</details>
-
-<details>
-<summary>Marco Mravic</summary>
-
-- Lab website: [Mravic Lab](https://mmravic314.github.io/)
-</details>
-
 ### Princeton University
 
 <details>
@@ -270,6 +223,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.kratochvillab.com/)
 </details>
 
+
+### UCSF
+
+<details>
+<summary>William DeGrado</summary>
+
+- Lab website: [Link](https://pharm.ucsf.edu/degrado)
+</details>
 
 ### Columbia University
 
