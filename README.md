@@ -433,8 +433,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.epfl.ch/labs/lpdi/)
 </details>
 
-## :de: Germany
-
 ### FU Berlin
 
 <details>
