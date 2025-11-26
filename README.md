@@ -415,47 +415,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 
-## #EMEA
-
-## :uk: United Kingdom
-
-### University of Cambridge
-
-<details>
-<summary>Pietro Liò</summary>
-
-- Lab website: [Link](https://www.cl.cam.ac.uk/~pl219/)
-</details>
+## #Europe
 
 ### University of Oxford
-
-<details>
-<summary>Michael Bronstein</summary>
-
-- Lab website: [Link](https://www.cs.ox.ac.uk/people/michael.bronstein/)
-</details>
 
 <details>
 <summary>Charlotte Deane</summary>
 
 - Lab website: [OPIG](https://opig.stats.ox.ac.uk/)
-</details>
-
-<details>
-<summary>Yarin Gal</summary>
-
-- Lab website: [Yarin Gal - Home Page | Oxford Machine Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/)
-</details>
-
-## :switzerland: Switzerland
-
-### ETH Zurich
-
-<details>
-<summary>Donald Hilvert</summary>
-
-- Lab website: [Hilvert Lab](https://protein.ethz.ch/)
-- Related paper: [Design from peptide](https://www.science.org/doi/10.1126/science.aau3744)
 </details>
 
 ### EPFL
