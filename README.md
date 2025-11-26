@@ -17,47 +17,16 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 ### MIT
 
 <details>
-<summary>Bonnie Berger</summary>
-
-- Lab website: [Link](https://people.csail.mit.edu/bab/)
-</details>
-
-<details>
 <summary>Tommi S. Jaakkola</summary>
 
 - Lab website: [Link](https://people.csail.mit.edu/tommi/)
 </details>
 
 <details>
-<summary>Regina Barzilay</summary>
-
-- Lab website: [Link](https://www.regina.csail.mit.edu/)
-- Related paper:
-  - CLIPZyme: [arXiv:2402.06748](http://arxiv.org/abs/2402.06748)
-</details>
-
-
-<details>
 <summary>Tess E. Smidt</summary>
 
 - Lab website: [Link](https://blondegeek.github.io/)
 </details>
-
-<details>
-<summary>Sergey Ovchinnikov</summary>
-
-- Lab website: [Link](https://www.solab.org/)
-</details>
-
-<details>
-<summary>Alexandre Rives</summary>
-
-- Lab website: NA
-- Related papers:
-  - [ESM3](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
-  - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
-  - [ESM](https://www.pnas.org/doi/full/10.1073/pnas.2016239118)
-  </details>
 
 <details>
 <summary>Amy E. Keating</summary>
@@ -74,27 +43,16 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 ### Harvard University
 
 <details>
-<summary>Debora Marks & Chris Sander</summary>
+<summary>Chris Sander</summary>
 
-- Lab websites: 
-  - [Debbie Marks Lab](https://www.deboramarkslab.com/)
+- Lab websites:
   - [Sander Lab](https://www.sanderlab.org/#/)
-- Related papers:
-  - [CoVES](https://www.nature.com/articles/s41467-024-45621-4)
-  - [ProteinGym](https://www.biorxiv.org/content/10.1101/2023.12.07.570727v1)
-  - [Evolutionary Couplings](https://www.nature.com/articles/s41467-024-45621-4)
   </details>
 
 <details>
 <summary>Nicholas F. Polizzi</summary>
 
 - Lab website: [Polizzi Lab](https://www.polizzilab.org/)
-</details>
-
-<details>
-<summary>Marinka Zitnik</summary>
-
-- Lab website: [Link](https://zitniklab.hms.harvard.edu/bio/)
 </details>
 
 <details>
@@ -109,20 +67,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://yilundu.github.io/)
 </details>
 
-
-<details>
-<summary>Omar Abudayyeh & Jonathan Gootenberg</summary>
-
-- Lab website: [Link](https://www.abugootlab.org/)
-</details>
-
 ### Stanford University
-
-<details>
-<summary>Possu Huang</summary>
-
-- Lab website: [Link](http://www.proteindesign.org/)
-</details>
 
 <details>
 <summary>Jure Leskovec</summary>
@@ -154,27 +99,9 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://drorlab.stanford.edu/)
 </details>
 
-<details>
-<summary>James Zou</summary>
-
-- Lab website: [Link](https://www.james-zou.com/)
-</details>
 
 ### University of Washington
 
-<details> 
-<summary>David Baker</summary>
-
-- Lab website: [Baker Lab - UW Institute for Protein Design](https://www.bakerlab.org/)
-- Research focus: Protein design
-</details>
-
-<details>
-<summary>Neil King</summary>
-
-- Lab website: [King Lab | Research](https://kinglab.ipd.uw.edu/)
-- Research focus: Protein nanomaterial design for medicine, self-assembling protein nanomaterial design
-</details>
 
 <details>
 <summary>Gaurav Bhardwaj</summary>
@@ -183,25 +110,12 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Research focus: Peptide design for therapeutics
 </details>
 
-<details>
-<summary>Frank Dimaio</summary>
-
-- Lab website: [DiMaio Lab - University of Washington](https://dimaiolab.ipd.uw.edu/)
-- Research focus: Protein structure determination from low-resolution experimental data
-</details>
-
 ### UCSF
 
 <details>
 <summary>William DeGrado</summary>
 
 - Lab website: [Link](https://pharm.ucsf.edu/degrado)
-</details>
-
-<details>
-<summary>Tanja Kortemme</summary>
-
-- Lab website: [Link](https://kortemmelab.ucsf.edu/)
 </details>
 
 ### UC Berkeley
@@ -241,12 +155,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
   - [LM-design](https://proceedings.mlr.press/v202/zheng23a.html)
   - [DPLM](https://arxiv.org/abs/2402.18567)
   </details>
-
-<details>
-<summary>Lin Jiang</summary>
-
-- Personal website: [Lin Jiang, Ph.D.](https://eastonad.ucla.edu/people/lin-jiang-phd)
-</details>
 
 ### Caltech
 
@@ -350,50 +258,12 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 </details>
 
 <details>
-<summary>Philip A. Romero</summary>
-
-- Lab website: [Link](https://pratt.duke.edu/people/philip-romero/)
-</details>
-
-<details>
-<summary>Rohit Singh</summary>
-
-- Lab website: [Link](https://singhlab.net/)
-</details>
-
-
-<details>
 <summary>David C. Richardson & Jane Shelby Richardson</summary>
 
 - Lab website: [Link](https://www.biochem.duke.edu/people/richardson-lab)
 </details>
 
-### John Hopkins University
-
-<details>
-<summary>Jeffrey J. Gray</summary>
-
-- Lab website: [Link](https://graylab.jhu.edu/)
-</details>
-
-### Carnegie Mellon University
-
-<details>
-<summary>Lei Li</summary>
-
-- Personal website: [Lei LI](https://lileicc.github.io/)
-- Related papers:
-  - [SurfPro](https://arxiv.org/abs/2405.06693)
-  - [EnzyGen](https://arxiv.org/abs/2405.08205)
-  </details>
-
 ### UNC Chapel Hill
-
-<details>
-<summary>Brian Kuhlman</summary>
-
-- Lab website: [Kuhlman Lab](https://klab.web.unc.edu/research/)
-</details>
 
 <details>
 <summary>Tianlong Chen</summary>
@@ -429,12 +299,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Banta Lab](https://bantalab.cheme.columbia.edu/)
 </details>
 
-<details>
-<summary>Anum Glasgow</summary>
-
-- Personal website: [Anum Glasgow](https://www.biochem.cuimc.columbia.edu/profile/anum-glasgow-phd)
-</details>
-
 ### New York University
 
 <details>
@@ -443,13 +307,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Montclare Lab](http://montclare.poly.edu/)
 </details>
 
-<details>
-<summary>Kyunghyun Cho</summary>
-
-- Lab website: [Link](https://kyunghyuncho.me/)
-- Related paper: 
-  - [Protein Design w/ Guided Discrete Diffusion](https://openreview.net/forum?id=MfiK69Ga6p)
-</details>
 
 <details>
 <summary>Andrew Gordon Wilson</summary>
@@ -482,14 +339,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Qian Cong</summary>
 
 - Lab website: [Link](https://breakthroughs.utsouthwestern.edu/women/stories/cong-qian.html)
-</details>
-
-### University of Wisconsin-Madison
-
-<details>
-<summary>Anthony Gitter</summary>
-
-- Lab website: [Link](https://www.biostat.wisc.edu/~gitter/)
 </details>
 
 ### Georgia Institute of Technology
@@ -617,21 +466,7 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.epfl.ch/labs/lpdi/)
 </details>
 
-<details>
-<summary>Anne-Florence Bitbol</summary>
-
-- Lab website: [Bitbol Lab](https://www.epfl.ch/labs/bitbol-lab/)
-</details>
-
 ## :de: Germany
-
-### TUM
-
-<details>
-<summary>Rost Burkhard</summary>
-
-- Lab website: [Rost Lab](https://www.rostlab.org/)
-</details>
 
 ### FU Berlin
 
@@ -639,25 +474,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Frank Noé</summary>
 
 - Lab website: [Link](https://www.mi.fu-berlin.de/en/math/groups/ai4s/staff/noe/index.html)
-</details>
-
-### Leipzig University
-
-<details>
-<summary>Clara T. Schoeder</summary>
-
-- Lab website: [Link](https://www.schoederlab.org/)
-- Related paper:
-  - [Combine Rosetta and ESM](https://pubs.acs.org/doi/10.1021/acssynbio.3c00753)
-</details>
-
-
-### University of Bayreuth
-
-<details>
-<summary>Birte Höcker</summary>
-
-- Lab website: [Link](https://www.proteindesign.uni-bayreuth.de/en/index.html)
 </details>
 
 
