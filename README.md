@@ -10,8 +10,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 
 > 📝 Note: The list was based on @[Zuricho](https://github.com/Zuricho)'s post on [Zhihu](https://zhuanlan.zhihu.com/p/710644612) in Chinese. The current version has been expanded and formatted with the assistance of @[Leo-T-Zang](https://github.com/Leo-T-Zang).
 
-## #North America
-
 ## :us: United States
 
 ### MIT
