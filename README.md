@@ -97,85 +97,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://drorlab.stanford.edu/)
 </details>
 
-### UC Berkeley
-
-<details>
-<summary>Jennifer Doudna</summary>
-
-- Lab website: [Link](https://doudnalab.org/)
-</details>
-
-<details>
-<summary>Yun S. Song</summary>
-
-- Personal website: [Yun S. Song](https://people.eecs.berkeley.edu/~yss/)
-</details>
-
-<details>
-<summary>Jennifer Listgarten</summary>
-
-- Personal website: [Jennifer Listgarten](http://www.jennifer.listgarten.com/)
-</details>
-
-<details>
-<summary>Pieter Abbeel</summary>
-
-- Lab website: [Link](https://people.eecs.berkeley.edu/~pabbeel/)
-</details>
-
-### Caltech
-
-<details>
-<summary>Frances Arnold</summary>
-
-- Lab website: [Link](http://fhalab.caltech.edu/)
-</details>
-
-<details>
-<summary>Steve Mayo</summary>
-
-- Lab website: [Welcome to the Mayo Group](https://www.mayo.caltech.edu/)
-</details>
-
-<details>
-<summary>Yisong Yue</summary>
-
-- Lab website: [Link](http://www.yisongyue.com/)
-</details>
-
-### University of Chicago
-
-<details>
-<summary>Rama Ranganathan</summary>
-
-- Lab website: [Ranganathan Lab](http://ranganathanlab.org/)
-- Related paper: 
-  - [Evolution-based design](https://www.science.org/doi/10.1126/science.aba3304)
-</details>
-
-<details>
-<summary>Andrew Ferguson</summary>
-
-- Lab website: [Ferguson Lab](https://www.ferglab.com/)
-- Personal website: [Andrew Ferguson](https://pme.uchicago.edu/faculty/andrew-ferguson)
-- Related paper: 
-  - [SH3 design](https://www.cell.com/cell-systems/abstract/S2405-4712(24)00204-7#%20)
-</details>
-
-### Princeton University
-
-<details>
-<summary>Mengdi Wang</summary>
-
-- Lab website: [Link](https://ece.princeton.edu/people/mengdi-wang)
-</details>
-
-<details>
-<summary>Ellen D. Zhong</summary>
-
-- Lab website: [Link](https://www.cs.princeton.edu/~zhonge/)
-</details>
-
 ### Duke University
 
 <details>
@@ -221,6 +142,14 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 <summary>Huong Kratochvil</summary>
 
 - Lab website: [Link](https://www.kratochvillab.com/)
+</details>
+
+### UC Berkeley
+
+<details>
+<summary>Jennifer Listgarten</summary>
+
+- Personal website: [Jennifer Listgarten](http://www.jennifer.listgarten.com/)
 </details>
 
 
