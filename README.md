@@ -123,26 +123,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://www.biochem.duke.edu/people/richardson-lab)
 </details>
 
-### UNC Chapel Hill
-
-<details>
-<summary>Tianlong Chen</summary>
-
-- Personal website: [Tianlong Chen](https://tianlong-chen.github.io/)
-</details>
-
-<details>
-<summary>Huaxiu Yao</summary>
-
-- Personal website: [Huaxiu Yao's Personal Website](https://www.huaxiuyao.io/)
-</details>
-
-
-<details>
-<summary>Huong Kratochvil</summary>
-
-- Lab website: [Link](https://www.kratochvillab.com/)
-</details>
 
 ### UC Berkeley
 
