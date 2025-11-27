@@ -97,33 +97,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://drorlab.stanford.edu/)
 </details>
 
-### Duke University
-
-<details>
-<summary>Bruce Donald</summary>
-
-- Lab website: [Link](https://users.cs.duke.edu/~brd/)
-</details>
-
-<details>
-<summary>Pranam D. Chatterjee</summary>
-
-- Lab website: [Link](https://www.chatterjeelab.com/)
-</details>
-
-<details>
-<summary>Alexander Tong</summary>
-
-- Lab website: [Link](https://www.alextong.net/)
-</details>
-
-<details>
-<summary>David C. Richardson & Jane Shelby Richardson</summary>
-
-- Lab website: [Link](https://www.biochem.duke.edu/people/richardson-lab)
-</details>
-
-
 ### UC Berkeley
 
 <details>
