@@ -65,38 +65,6 @@ We apologize if we've missed your lab or labs you're familiar with. Suggestions 
 - Lab website: [Link](https://yilundu.github.io/)
 </details>
 
-### Stanford University
-
-<details>
-<summary>Jure Leskovec</summary>
-
-- Lab website: [Link](https://cs.stanford.edu/people/jure/)
-</details>
-
-<details>
-<summary>Rhiju Das</summary>
-
-- Lab website: [Link](https://profiles.stanford.edu/rhiju-das)
-</details>
-
-<details>
-<summary>Brian Trippe</summary>
-
-- Lab website: [Link](https://briantrippe.com/)
-</details>
-
-<details>
-<summary>Brian Hie</summary>
-
-- Lab website: [Link](https://evodesign.org/)
-</details>
-
-<details>
-<summary>Ron Dror</summary>
-
-- Lab website: [Link](https://drorlab.stanford.edu/)
-</details>
-
 ### UC Berkeley
 
 <details>
